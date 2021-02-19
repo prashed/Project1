@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-invention {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.img-browser {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.img-search {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.img-bubble {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.img-people {
+    width: 500px;
+    margin-left: 20px;
+}
